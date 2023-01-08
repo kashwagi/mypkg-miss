@@ -15,5 +15,5 @@ jobs:
           
           cd src/
           cd mypkg/
-          cd test/
+          #cd test/
           ./test.bash
