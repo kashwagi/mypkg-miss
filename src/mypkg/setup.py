@@ -13,10 +13,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='yuki',
+    maintainer='yuki kashiwagi',
     maintainer_email='ponpon@ponmail.com',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='this pakage is made for practice and test',
+    license='BSD-3-Clause',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
