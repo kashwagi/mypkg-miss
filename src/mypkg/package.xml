@@ -3,7 +3,7 @@
 <package format="3">
   <name>mypkg</name>
   <version>0.0.0</version>
-  <description>a pakage for practice and test</description>
+  <description>this pakage is made for practice and test</description>
   <maintainer email="ponpon@ponmail.com">yuki kashiwagi</maintainer>
   <license>BSD-3-Clause</license>
 
