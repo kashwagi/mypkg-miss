@@ -1,5 +1,8 @@
 # robosys2022_ROS2
 
+[![test](https://github.com/kashwagi/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/kashwagi/mypkg/actions/workflows/test.yml)
+
+
 当レポジトリは2022年度ロボットシステム学の講義内においてGitHubやプログラムなどロボットシステムへの理解を深める学習目的で制作及び公開しています。
 
 第二回課題提出用。
