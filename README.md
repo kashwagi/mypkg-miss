@@ -27,12 +27,22 @@ ROS2 Humble
 実行後変数を1ずつ増やし続ける。
 
 #### listener
-受け取ったトピックの内容をを標準出力するためのもの。
+受け取ったトピックの内容をを標準出力する。
 
 ### トピック
 
 #### countup
-talkerの変数をlistenerに送るためのもの。
+talkerの変数をlistenerに送る。
+
+# テスト
+ubunntu 22.04.1LTS
+
+Python 3.10
+
+ROS2 Humble
+
+また、当テストにはロボットシステム学授業内で提供していただいた上田隆一先生のコンテナを使用しています（以下URLを添付）。
+https://hub.docker.com/layers/ryuichiueda/ubuntu22.04-ros2/latest/images/sha256-0e1773bc6f12b57172c8818aac36aeb97ca13269028028d49ad5f6f8cc0d6204?context=explore
 
 # ライセンス
 このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます.
